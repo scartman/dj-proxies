@@ -1,1 +1,3 @@
-settings.py
+backend/backend/settings.py
+env/
+.vscode/
